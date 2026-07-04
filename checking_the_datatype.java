@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class checking_the_java {
+public class checking_the_datatype {
 
     public static void main(String [] args) {
         Scanner sc=new Scanner(System.in);
