@@ -9,6 +9,5 @@ public class Sum_of_numbers {
 
      System.out.println(num1*(num1+1)/2);
 
-
     }
 }
