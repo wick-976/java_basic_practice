@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class finding_number {
+public class finding_number{
     public static  boolean find_number(int array[],int num1,int targert)
 {
        
